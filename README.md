@@ -6,4 +6,11 @@ I have learnt how to build a dashboard using microsoft excel.
 
 ## Project Topic:
 
-### Project Overview
+### Project Overview:
+
+### Data source: 
+
+### Tools Used: 
+- MS excel
+   - For data cleaning
+- SQL
