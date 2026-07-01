@@ -16,3 +16,4 @@ I have learnt how to build a dashboard using microsoft excel.
 - SQL
 
 ### Analysis
+https://github.com/Brenda147/Upskilling-Journey-documentation/blob/main/FS.jpeg
