@@ -14,3 +14,5 @@ I have learnt how to build a dashboard using microsoft excel.
 - MS excel [Download Here](http://www.microsoft.com)
    - For data cleaning
 - SQL
+
+### Analysis
